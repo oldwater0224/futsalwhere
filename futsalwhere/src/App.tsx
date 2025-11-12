@@ -1,7 +1,9 @@
+import UserView from "./components/UserView";
+
 export default function App () {
   return (
     <>
-      <h1>FUTSALWHERE</h1>
+      <UserView />
     </>
   );
 }
